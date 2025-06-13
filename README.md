@@ -4,7 +4,7 @@ Electrochemical Impedance Spectroscopy (EIS) is a powerful tool for examining th
 
 All data were collected under more than five different temperature conditions ranging from 25°C to 90°C. Our goal is to investigate the relationship between EIS and temperature, which could serve as a potential method for probing the internal temperature of batteries.
 
-Some of our findings have been published, and we are pleased to share our dataset. The structure of the dataset is as follows:
+The structure of the dataset is as follows:
 
 ```python
 data = {
