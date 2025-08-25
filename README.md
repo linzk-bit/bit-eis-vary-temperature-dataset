@@ -41,6 +41,13 @@ This dataset is created by Python, to use this dataset properly, you need packag
 
 # How to cite this work?
 
+Zhenkang Lin, Jing Yang, Chunyu Li, Shilong Wang, Wenzhong Cong, Teng Li, Lin Qi, Kening Sun, Cheng Fan,
+Fuzzy physics-informed thermal diagnostics via non-invasive frequency-domain signature distillation in high-energy-density batteries,
+Journal of Energy Chemistry,
+2025, 
+https://doi.org/10.1016/j.jechem.2025.08.018.
+
 # How to get support?
 
 Just write to lzkjack@qq.com
+
